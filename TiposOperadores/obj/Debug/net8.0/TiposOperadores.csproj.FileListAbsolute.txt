@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\bin\Debug\net8.0\TiposOperadores.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\bin\Debug\net8.0\TiposOperadores.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\bin\Debug\net8.0\TiposOperadores.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\bin\Debug\net8.0\TiposOperadores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\bin\Debug\net8.0\TiposOperadores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\refint\TiposOperadores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\TiposOperadores.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\TiposOperadores\obj\Debug\net8.0\ref\TiposOperadores.dll
