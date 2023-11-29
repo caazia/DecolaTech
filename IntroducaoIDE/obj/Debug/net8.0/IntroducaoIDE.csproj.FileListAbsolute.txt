@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\bin\Debug\net8.0\IntroducaoIDE.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\bin\Debug\net8.0\IntroducaoIDE.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\bin\Debug\net8.0\IntroducaoIDE.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\bin\Debug\net8.0\IntroducaoIDE.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\bin\Debug\net8.0\IntroducaoIDE.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\refint\IntroducaoIDE.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\IntroducaoIDE.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\IntroducaoIDE\obj\Debug\net8.0\ref\IntroducaoIDE.dll
