@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\refint\EstruturasDeRepeticao.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\EstruturasDeRepeticao\obj\Debug\net8.0\ref\EstruturasDeRepeticao.dll
