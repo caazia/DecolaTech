@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\bin\Debug\net8.0\ArraysListas.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\bin\Debug\net8.0\ArraysListas.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\bin\Debug\net8.0\ArraysListas.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\bin\Debug\net8.0\ArraysListas.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\bin\Debug\net8.0\ArraysListas.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\refint\ArraysListas.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ArraysListas.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ArraysListas\obj\Debug\net8.0\ref\ArraysListas.dll
