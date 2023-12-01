@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\bin\Debug\net8.0\MetodosConstrutores.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\bin\Debug\net8.0\MetodosConstrutores.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\bin\Debug\net8.0\MetodosConstrutores.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\bin\Debug\net8.0\MetodosConstrutores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\bin\Debug\net8.0\MetodosConstrutores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\refint\MetodosConstrutores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\MetodosConstrutores.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\MetodosConstrutores\obj\Debug\net8.0\ref\MetodosConstrutores.dll
