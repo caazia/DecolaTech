@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\bin\Debug\net8.0\ManipulandoValores.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\bin\Debug\net8.0\ManipulandoValores.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\bin\Debug\net8.0\ManipulandoValores.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\bin\Debug\net8.0\ManipulandoValores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\bin\Debug\net8.0\ManipulandoValores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\refint\ManipulandoValores.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ManipulandoValores.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ManipulandoValores\obj\Debug\net8.0\ref\ManipulandoValores.dll
