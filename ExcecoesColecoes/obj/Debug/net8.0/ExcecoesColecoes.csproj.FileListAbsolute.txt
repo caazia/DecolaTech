@@ -1,0 +1,14 @@
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\bin\Debug\net8.0\ExcecoesColecoes.exe
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\bin\Debug\net8.0\ExcecoesColecoes.deps.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\bin\Debug\net8.0\ExcecoesColecoes.runtimeconfig.json
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\bin\Debug\net8.0\ExcecoesColecoes.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\bin\Debug\net8.0\ExcecoesColecoes.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.AssemblyInfoInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.AssemblyInfo.cs
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.csproj.CoreCompileInputs.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\refint\ExcecoesColecoes.dll
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.pdb
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ExcecoesColecoes.genruntimeconfig.cache
+C:\Users\cahca\Documents\CURSOS\Dio\Decola Tech\DecolaTech\ExcecoesColecoes\obj\Debug\net8.0\ref\ExcecoesColecoes.dll
